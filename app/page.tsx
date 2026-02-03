@@ -5,8 +5,8 @@ export default function Home() {
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
         <Image
-          className="dark:invert"
-          src="/next.svg"
+          
+          src="https://preview.redd.it/is-mandhi-taking-over-and-dethroning-biryani-v0-5ot3q3owogme1.png?width=1080&crop=smart&auto=webp&s=b0b3e2d4fd1424ae172538e9bc3cbe10b804a084"
           alt="Next.js logo"
           width={100}
           height={20}
